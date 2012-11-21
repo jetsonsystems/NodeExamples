@@ -21,4 +21,3 @@ Demonstrates how naively invoking im.resize on every image will eventually blow 
 
 Demonstrates the use of step to invoke im.resize in parallel on a small subset of resize operations. Upon successful completion of these, another batch will get started.
 
-test
