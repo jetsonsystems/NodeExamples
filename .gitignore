@@ -1,5 +1,6 @@
 node_modules
 ProcessImages/PLM/Media/Import/Images
 ProcessImages/PLM/Media/.derived/Images/*.jpg
-
 /npm-debug.log
+*~
+
